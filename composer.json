@@ -1,0 +1,28 @@
+{
+    "name": "7os/web-faderbox",
+    "description": "7 OS Web - FaderBox",
+    "keywords": ["css", "javascript","7","seven","os","web","fader", "box"],
+    "homepage": "https://github.com/7os/web-faderbox",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "me@sirlouis.io"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "require": {
+      "7os/jquery" : ">=0.1@stable",
+      "7os/web-theme" : ">=0.1@stable",
+      "7os/js-generic" : ">=0.1@stable",
+      "7os/web-plugin" : ">=0.1@stable"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {}
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "name": "7os/web-faderbox",
+    "name": "7os/faderbox-soswapp",
     "description": "7 OS Web - FaderBox",
     "keywords": ["css", "javascript","7","seven","os","web","fader", "box"],
-    "homepage": "https://github.com/7os/web-faderbox",
+    "homepage": "https://github.com/7os/faderbox-soswapp",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -16,10 +16,10 @@
         }
     ],
     "require": {
-      "7os/jquery" : ">=0.1@stable",
-      "7os/web-theme" : ">=0.1@stable",
-      "7os/js-generic" : ">=0.1@stable",
-      "7os/web-plugin" : ">=0.1@stable"
+      "7os/jquery-soswapp" : ">=0.1@stable",
+      "7os/theme-soswapp" : ">=0.1@stable",
+      "7os/js-generic-soswapp" : ">=0.1@stable",
+      "7os/plugin-soswapp" : ">=0.1@stable"
     },
     "require-dev": {},
     "autoload": {

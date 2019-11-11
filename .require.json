@@ -12,7 +12,7 @@
   "script-js" : [
     {
       "jquery/jquery" : "",
-      "7os/web-them" : ""
+      "7os/them-soswapp" : ""
     }
   ],
   "script-css" : []

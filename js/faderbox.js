@@ -1,5 +1,5 @@
-/*! 7OS -Web dnav: https://github.com/7os/web-fader-box
-  ! Requires 7os/web-theme available @ https://github.com/7os/web-theme
+/*! 7OS -Web dnav: https://github.com/7os/faderbox-soswapp
+  ! Requires 7os/theme-soswapp available @ https://github.com/7os/theme-soswapp
 */
 if (typeof sos == 'undefined') window.sos = {}; // Seven OS
 if ( typeof sos.config !== 'object' ) sos.config = {};

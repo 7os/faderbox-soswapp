@@ -3,8 +3,8 @@
 $conf_path = \str_replace([
   "/vendor/7os/faderbox-soswapp",
   "/dev/7os/faderbox-soswapp",
-  "\\vendor\\7os\\web-faderbox",
-  "\\dev\\7os\\web-faderbox",
+  "\\vendor\\7os\\faderbox-soswapp",
+  "\\dev\\7os\\faderbox-soswapp",
 ],"",__DIR__);
 $conf_file = $conf_path . "/project-info.json";
 
